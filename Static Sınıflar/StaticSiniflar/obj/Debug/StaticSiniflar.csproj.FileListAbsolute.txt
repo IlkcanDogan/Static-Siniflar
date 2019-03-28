@@ -1,0 +1,6 @@
+c:\users\mka\documents\visual studio 2012\Projects\StaticSiniflar\StaticSiniflar\bin\Debug\StaticSiniflar.exe.config
+c:\users\mka\documents\visual studio 2012\Projects\StaticSiniflar\StaticSiniflar\bin\Debug\StaticSiniflar.exe
+c:\users\mka\documents\visual studio 2012\Projects\StaticSiniflar\StaticSiniflar\bin\Debug\StaticSiniflar.pdb
+c:\users\mka\documents\visual studio 2012\Projects\StaticSiniflar\StaticSiniflar\obj\Debug\StaticSiniflar.csprojResolveAssemblyReference.cache
+c:\users\mka\documents\visual studio 2012\Projects\StaticSiniflar\StaticSiniflar\obj\Debug\StaticSiniflar.exe
+c:\users\mka\documents\visual studio 2012\Projects\StaticSiniflar\StaticSiniflar\obj\Debug\StaticSiniflar.pdb
